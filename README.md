@@ -6,7 +6,6 @@
   <h2>🧑‍💻 Desenvolvedor Front-end & Web Designer</h2>
   <p>📍 Governador Valadares - MG | 🎓 Estudante de Desenvolvimento de Sistemas</p>
   
-  <img src="https://komarev.com/ghpvc/?username=VictorHcss&color=blueviolet&style=flat-square&label=Visualizações+do+Perfil" alt="Profile views"/>
 </div>
 
 ---
@@ -31,8 +30,6 @@ const victor = {
 - 🔭 Atualmente trabalhando em projetos pessoais para construir meu portfólio
 - 🌱 Estudando **React.js** e **boas práticas de desenvolvimento**
 - 👯 Procurando colaborar em projetos open source
-- 💬 Pergunte-me sobre **HTML, CSS, JavaScript, PHP**
-- ⚡ Curiosidade: Adoro combinar programação com design criativo
 
 </details>
 
@@ -63,19 +60,6 @@ const victor = {
 
 ---
 
-## 📊 Estatísticas GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorHcss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHcss&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorHcss&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
----
-
 ## 🎯 Projetos em Destaque
 
 <div align="center">
@@ -98,17 +82,13 @@ const victor = {
 
 ---
 
-## 🎯 Objetivos 2024
+## 🎯 Objetivos
 
 - [ ] 🚀 Dominar React.js e suas principais bibliotecas
-- [ ] 🎨 Criar 5 projetos completos para o portfólio
 - [ ] 📚 Aprender TypeScript e Next.js
-- [ ] 🤝 Contribuir para projetos open source
-- [ ] 💼 Conseguir primeira oportunidade como desenvolvedor
-
 ---
 
-## 📫 Vamos Conectar?
+## 📫 Contatos
 
 <div align="center">
   
