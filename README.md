@@ -40,12 +40,13 @@
 
 ---
 
-### 📫 **Contatos**
+### 📫 **Vamos conversar?**
 
 <div align="center">
   [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:henvictor2@gmail.com)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/553399926633)
   [![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=flat-square&logo=About.me&logoColor=white)](https://app.curtaaulacurta.com.br/166/victor/index.html)
+  [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/1i2hM139lmyTdukYTJKHsJ)
 </div>
 
 ---
@@ -58,3 +59,5 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorHcss&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak"/>
 </div>
+```
+
