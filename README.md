@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Victor%20Henrique" alt="Victor Henrique banner animado"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Ol%C3%A1!%20Sou%20Victor%20Henrique" alt="Victor Henrique banner animado"/>
 </p>
-
-<h1 align="center">👋 Olá! Eu sou o Victor Henrique</h1>
 
 <p align="center">
   🧑‍💻 Estudante de Desenvolvimento de Sistemas • Front-end Developer & Web Designer <br>
@@ -41,7 +39,6 @@ Sempre buscando evoluir tanto na área técnica quanto criativa.
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
----
 
 ## 📫 Entre em Contato
 
@@ -50,14 +47,4 @@ Sempre buscando evoluir tanto na área técnica quanto criativa.
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/VictorHcss" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center"><em>“Código limpo, mente clara.”</em></p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer"/>
-</p>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge
