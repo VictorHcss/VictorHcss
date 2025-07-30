@@ -4,7 +4,6 @@
   # Victor Henrique
   **@VictorHcss**
   
-  <img src="https://komarev.com/ghpvc/?username=VictorHcss&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
 </div>
 
 ---
