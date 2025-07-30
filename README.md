@@ -1,43 +1,62 @@
 <div align="center">
-  <h1>Olá, eu sou o **Victor Henrique**! 👋</h1>
+
+  <h1>Olá, eu sou o Victor Henrique! 👋</h1>
+
   <p>Sou um desenvolvedor iniciante focado em aprender e criar projetos legais com HTML, CSS, JavaScript e outras tecnologias.</p>
-  <p>Sempre busco evoluir e transformar ideias em soluções criativas, com paixão por Front-end e Web Design.</p>
+  <p>Busco sempre evoluir e transformar ideias em soluções criativas, com paixão por Front-end e Web Design.</p>
+
 </div>
 
 ---
 
-### 🧠 **Minhas Tecnologias**
+### 🧠 Minhas Tecnologias
 
 <div align="center">
-  <p>
-    <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> HTML &nbsp;
-    <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> CSS &nbsp;
-    <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> JavaScript &nbsp;
-    <img align="center" alt="PHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> PHP &nbsp;
-    <img align="center" alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> MySQL &nbsp;
-    <img align="center" alt="Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"> Figma &nbsp;
-    <img align="center" alt="VSCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> VSCode &nbsp;
-    <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> Git &nbsp;
-    <img align="center" alt="GitHub" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> GitHub
-  </p>
+  <img alt="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+  &nbsp;&nbsp;
+  <img alt="CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+  &nbsp;&nbsp;
+  <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
+  &nbsp;&nbsp;
+  <img alt="PHP" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>
+  &nbsp;&nbsp;
+  <img alt="MySQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
+  &nbsp;&nbsp;
+  <img alt="Figma" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+  &nbsp;&nbsp;
+  <img alt="VSCode" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+  &nbsp;&nbsp;
+  <img alt="Git" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
+  &nbsp;&nbsp;
+  <img alt="GitHub" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>
 </div>
 
 ---
 
-### 📫 **Vamos conversar?**
+### 📫 Vamos conversar?
 
 <div align="center">
-  <p>Ficarei feliz em conectar e trocar ideias!</p>
-  <br>
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-henrique-155842377)<br>
-  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henvictor2@gmail.com)<br>
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/553399926633)<br>
-  [![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://app.curtaaulacurta.com.br/166/victor/index.html)<br>
-  [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/1i2hM139lmyTdukYTJKHsJ)
+
+  <a href="https://www.linkedin.com/in/victor-henrique-155842377" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:henvictor2@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://wa.me/553399926633" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://app.curtaaulacurta.com.br/166/victor/index.html" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
+
 </div>
 
 ---
 
 <div align="center">
-  <p>Obrigado pela visita! ⭐</p>
+  <p><em>“Obrigado pela visita! ⭐ Vamos codar o futuro!”</em></p>
 </div>
