@@ -1,43 +1,63 @@
-<h1 align="center">👋 Olá! Sou Victor Henrique</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Victor%20Henrique" alt="Victor Henrique banner animado"/>
+</p>
+
+<h1 align="center">👋 Olá! Eu sou o Victor Henrique</h1>
 
 <p align="center">
-🧑‍💻 Estudante de Desenvolvimento de Sistemas | Front-end Developer & Web Designer  
-📍 Governador Valadares - MG  
+  🧑‍💻 Estudante de Desenvolvimento de Sistemas • Front-end Developer & Web Designer <br>
+  📍 Governador Valadares - MG
 </p>
 
 ---
 
 ## 🧠 Sobre mim
 
-Sou um desenvolvedor front-end em formação com foco em criar interfaces modernas, responsivas e funcionais.  
-Gosto de transformar ideias em experiências visuais usando código limpo e design bem pensado.
+Sou um desenvolvedor front-end em formação com foco em criar **interfaces modernas, responsivas e funcionais**.  
+Gosto de transformar ideias em experiências visuais usando **código limpo** e **design bem pensado**.
 
-Estou sempre em busca de novos aprendizados, tanto na área técnica quanto no design. Atualmente, estudo React, Figma e boas práticas de UI/UX.
+Atualmente estudo:
+
+- ⚛️ **React.js**  
+- 🎨 **Figma** para prototipagem  
+- 📐 **Boas práticas de UI/UX**  
+- 🧠 Lógica de programação
+
+Sempre buscando evoluir tanto na área técnica quanto criativa.
 
 ---
 
 ## 🚀 Tecnologias & Ferramentas
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-</div>
-
-## 📫 Entre em Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-henrique-155842377)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/VictorHcss)
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
 ---
 
-> “Código limpo, mente clara.”  
+## 📫 Entre em Contato
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/victor-henrique-155842377" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/VictorHcss" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center"><em>“Código limpo, mente clara.”</em></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer"/>
+</p>
