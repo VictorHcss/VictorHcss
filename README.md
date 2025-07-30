@@ -26,14 +26,10 @@ Buscando sempre melhorar como desenvolvedor e designer.
 ---
 
 ### 📫 Contato:
-
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:henvictor2@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=flat-square&logo=About.me&logoColor=white)](https://app.curtaaulacurta.com.br/166/victor/index.html)
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/1i2hM139lmyTdukYTJKHsJ)
-
----
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorHcss&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHcss&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="150"/>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-henrique-155842377)
+  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henvictor2@gmail.com)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/553399926633)
+  [![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://app.curtaaulacurta.com.br/166/victor/index.html)
 </div>
+
