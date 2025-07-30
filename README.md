@@ -1,5 +1,5 @@
 <div align="center">
-  # Olá, meu nome é **Victor Henrique** 👋
+  Olá, meu nome é Victor Henrique 👋
   <p>Estudante de Desenvolvimento de Sistemas</p>
   
   <img src="https://komarev.com/ghpvc/?username=VictorHcss&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
