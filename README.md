@@ -1,12 +1,16 @@
-## Olá, meu nome é **Victor Henrique** 👋
+<div align="center">
+  <h1>Olá, meu nome é Victor Henrique👋</h1>
+  <p>Estudante de Desenvolvimento de Sistemas</p>
+</div>
 
-Atualmente sou estudante de Desenvolvimento de Sistemas.  
-Apaixonado por Front-end, Web Design e novas tecnologias.  
-Buscando sempre melhorar como desenvolvedor e designer.
+<div align="center">
+  <p>Apaixonado por **Front-end**, **Web Design** e **novas tecnologias**.</p>
+  <p>Buscando sempre melhorar como desenvolvedor e designer, transformando ideias em experiências digitais incríveis.</p>
+</div>
 
 ---
 
-### 🧠 Linguagens & Tecnologias:
+### 🧠 **Linguagens & Tecnologias:**
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -17,7 +21,7 @@ Buscando sempre melhorar como desenvolvedor e designer.
 
 ---
 
-### 🛠️ Ferramentas & Design:
+### 🛠️ **Ferramentas & Design:**
 
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
@@ -25,7 +29,8 @@ Buscando sempre melhorar como desenvolvedor e designer.
 
 ---
 
-### 📫 Contato:
+### 📫 **Vamos conversar?**
+
 <div align="center">
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-henrique-155842377)
   [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henvictor2@gmail.com)
@@ -33,3 +38,20 @@ Buscando sempre melhorar como desenvolvedor e designer.
   [![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://app.curtaaulacurta.com.br/166/victor/index.html)
 </div>
 
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VictorHcss&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHcss&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff" height="160"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorHcss&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12,20,14,17,20,26&section=footer"/>
+  <p>⭐ **Obrigado pela visita!**</p>
+</div>
