@@ -1,13 +1,13 @@
 <div align="center">
-  <h1>Olá, meu nome é **Victor Henrique** 👋</h1>
+  <h1>Olá, meu nome é <strong>Victor Henrique</strong> 👋</h1>
   <p>Estudante de Desenvolvimento de Sistemas</p>
 </div>
 
 ---
 
 <div align="center">
-  <p>Apaixonado por **Front-end**, **Web Design** e **novas tecnologias**.</p>
-  <p>Buscando sempre melhorar como desenvolvedor e designer, transformando ideias em experiências digitais incríveis.</p>
+  <p>Interesso-me por <strong>Front-end</strong>, <strong>Web Design</strong> e <strong>novas tecnologias</strong>.</p>
+  <p>Atualmente desenvolvendo habilidades práticas em programação e design, com foco em transformar ideias em interfaces bem construídas.</p>
 </div>
 
 ---
@@ -38,31 +38,29 @@
 
 ---
 
+### 📫 **Vamos conversar?**
+
 <div align="center">
-  <h3>📫 **Vamos conversar?**</h3>
-  <p>Ficarei feliz em conectar e trocar ideias!</p>
+  <p>Conecte-se comigo ou envie uma mensagem, estou aberto a colaborações e novas ideias.</p>
   <br>
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-henrique-155842377)
-  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henvictor2@gmail.com)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/553399926633)
-  [![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://app.curtaaulacurta.com.br/166/victor/index.html)
-  [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/1i2hM139lmyTdukYTJKHsJ)
+  <a href="https://www.linkedin.com/in/victor-henrique-155842377">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:henvictor2@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://wa.me/553399926633?text=Ol%C3%A1%20Victor%2C%20vim%20do%20seu%20GitHub!">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  <a href="https://app.curtaaulacurta.com.br/166/victor/index.html">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfólio">
+  </a>
+  <a href="https://open.spotify.com/user/1i2hM139lmyTdukYTJKHsJ">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
+  </a>
 </div>
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorHcss&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHcss&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff" height="160"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorHcss&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak"/>
-</div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12,20,14,17,20,26&section=footer"/>
-  <p>⭐ **Obrigado pela visita!**</p>
+  <p><strong>⭐ Obrigado pela visita!</strong></p>
 </div>
