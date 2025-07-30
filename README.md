@@ -1,11 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Victor+Henrique+%F0%9F%91%8B;Front-end+Developer+%26+Web+Designer;Estudante+de+Desenvolvimento+de+Sistemas" alt="Typing SVG" />
 </div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=VictorHcss&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
-</div>
-
 ---
 
 <div align="center">
