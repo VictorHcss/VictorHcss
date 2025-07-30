@@ -1,10 +1,18 @@
 <div align="center">
-
-  <h1>Olá, eu sou o Victor Henrique! 👋</h1>
-
+  <h1>Olá, eu sou o **Victor Henrique**! 👋</h1>
   <p>Sou um desenvolvedor iniciante focado em aprender e criar projetos legais com HTML, CSS, JavaScript e outras tecnologias.</p>
   <p>Busco sempre evoluir e transformar ideias em soluções criativas, com paixão por Front-end e Web Design.</p>
+</div>
 
+---
+
+### 📍 **Sobre Mim**
+
+<div align="center">
+  <p>🧑‍💻 Estudante de Desenvolvimento de Sistemas com foco em criar **interfaces modernas, responsivas e funcionais**.</p>
+  <p>✨ Tnteressado por transformar ideias em **experiências digitais incríveis** usando código limpo e design bem pensado.</p>
+  <p>🚀 Sempre em busca de novos conhecimentos e desafios para aprimorar minhas habilidades em **Front-end** e **Web Design**.</p>
+  <p>💡 Aberto a feedbacks, colaborações e novas ideias!</p>
 </div>
 
 ---
@@ -36,7 +44,6 @@
 ### 📫 Vamos conversar?
 
 <div align="center">
-
   <a href="https://www.linkedin.com/in/victor-henrique-155842377" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -52,7 +59,6 @@
   <a href="https://app.curtaaulacurta.com.br/166/victor/index.html" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
-
 </div>
 
 ---
