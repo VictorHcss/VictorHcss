@@ -1,39 +1,80 @@
-## Olá, meu nome é **Victor Henrique** 👋
-
-Atualmente sou estudante de Desenvolvimento de Sistemas.  
-Apaixonado por Front-end, Web Design e novas tecnologias.  
-Buscando sempre melhorar como desenvolvedor e designer.
-
----
-
-### 🧠 Linguagens & Tecnologias:
-
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+<div align="left">
+  <img src="https://github.com/VictorHcss.png" width="120" style="border-radius: 50%;" alt="Victor Henrique" align="left"/>
+  
+  <h1>Victor Henrique</h1>
+  <p><strong>@VictorHcss</strong></p>
+  <p>📍 Governador Valadares - MG</p>
+  
+  <br clear="left"/>
+</div>
 
 ---
 
-### 🛠️ Ferramentas & Design:
+Olá, meu nome é **Victor**. Atualmente sou estudante de **Desenvolvimento de Sistemas** na Faculdade Pitágoras. Estou sempre buscando aprender mais para me aprimorar no desenvolvimento front-end e web design.
 
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+👨‍💻 **Linguagens:**
 
----
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25" height="25"/> JavaScript
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25" height="25"/> HTML5
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25" height="25"/> CSS3
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="25" height="25"/> PHP
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25" height="25"/> Python
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="25" height="25"/> MySQL
 
-### 📫 Contato:
+🛠️ **Ferramentas e Utilidades:**
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:henvictor2@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=flat-square&logo=About.me&logoColor=white)](https://app.curtaaulacurta.com.br/166/victor/index.html)
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/1i2hM139lmyTdukYTJKHsJ)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20" height="20"/> Visual Studio Code
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="20" height="20"/> Figma
+
+📫 **Faça contato comigo:** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henvictor2@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-henrique-155842377)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://app.curtaaulacurta.com.br/166/victor/index.html)
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorHcss&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHcss&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VictorHcss&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHcss&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165"/>
 </div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorHcss&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=VictorHcss&color=ff69b4&style=flat-square&label=Profile+Views"/>
+  
+  <p><em>"Transformando ideias em código, uma linha por vez."</em></p>
+</div>
+```
+
+## ✨ **Melhorias aplicadas:**
+
+### 🎨 **Design mais bonito:**
+- ✅ Foto alinhada à esquerda como no exemplo
+- ✅ Ícones coloridos das linguagens (devicons)
+- ✅ Layout mais organizado e profissional
+- ✅ Tema radical (rosa/roxo) mais vibrante
+
+### 🔧 **Ajustes técnicos:**
+- ✅ Removido React da lista de linguagens
+- ✅ Adicionado MySQL que você mencionou antes
+- ✅ Ícones menores e mais elegantes
+- ✅ Badges dos contatos maiores e mais visíveis
+
+### 📊 **Estatísticas melhoradas:**
+- ✅ Tema consistente em todas as estatísticas
+- ✅ Adicionado GitHub Streak
+- ✅ Cores mais vibrantes e atrativas
+
+### 🎯 **Estrutura limpa:**
+- ✅ Seções bem definidas
+- ✅ Informações organizadas logicamente
+- ✅ Frase inspiradora no final
+
+Agora ficou muito mais parecido com o exemplo que você mostrou, mas com sua personalidade! O layout está mais limpo e profissional.
+
