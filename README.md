@@ -1,40 +1,42 @@
-## Olá, meu nome é **Victor Henrique** 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Olá!%20Sou%20Victor%20Henrique" />
 
-Atualmente sou estudante de Desenvolvimento de Sistemas.  
-Apaixonado por Front-end, Web Design e novas tecnologias.  
-Buscando sempre melhorar como desenvolvedor e designer.
+### 👨‍💻 Sobre mim
 
----
+Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de aprender e criar projetos úteis e criativos. Curioso por natureza, estou sempre explorando novas ideias e colocando a mão na massa com código.
 
-### 🧠 Linguagens & Tecnologias:
-
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+🔗 **Portfólio**: [app.curtaaulacurta.com.br/166/victor/index.html](https://app.curtaaulacurta.com.br/166/victor/index.html)  
+📧 **Email**: henvictor2@gmail.com
 
 ---
 
-### 🛠️ Ferramentas & Design:
+### 🚀 Tecnologias que uso
 
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flet](https://img.shields.io/badge/-Flet-0a79df?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+### 🧠 Projetos em destaque
+
+- 💈 **Barbearia** — layout moderno com sistema de agendamento e avaliações
+- 🍕 **Pizzaria** — site com cardápio digital e tema personalizado
+- 🗺️ **Que Fazer em GV** — guia interativo com mapas, filtros e avaliações
+- 📊 **Quiz Proficiência** — app com histórico de notas, gráficos e sistema de feedbacks
 
 ---
 
-### 📫 Contato:
+### 🎵 Ouvindo agora no Spotify
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:henvictor2@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=flat-square&logo=About.me&logoColor=white)](https://app.curtaaulacurta.com.br/166/victor/index.html)
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/1i2hM139lmyTdukYTJKHsJ)
+[![Spotify](https://novatorem-omega-seven.vercel.app/api/spotify?background_color=121212&border_color=ffffff)](https://open.spotify.com/user/1i2hM139lmyTdukYTJKHsJ)
 
 ---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorHcss&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHcss&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="150"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorHcss&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHcss&layout=compact&langs_count=7&theme=radical"/>
 </div>
-```
-
