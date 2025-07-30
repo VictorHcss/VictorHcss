@@ -1,7 +1,25 @@
 <div align="center">
   <h1>Olá, eu sou o **Victor Henrique**! 👋</h1>
   <p>Sou um desenvolvedor iniciante focado em aprender e criar projetos legais com HTML, CSS, JavaScript e outras tecnologias.</p>
-  <p>Sempre busco evoluir e transformar ideias em soluções criativas.</p>
+  <p>Sempre busco evoluir e transformar ideias em soluções criativas, com paixão por Front-end e Web Design.</p>
+</div>
+
+---
+
+### 🧠 **Minhas Tecnologias**
+
+<div align="center">
+  <p>
+    <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> HTML &nbsp;
+    <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> CSS &nbsp;
+    <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> JavaScript &nbsp;
+    <img align="center" alt="PHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> PHP &nbsp;
+    <img align="center" alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> MySQL &nbsp;
+    <img align="center" alt="Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"> Figma &nbsp;
+    <img align="center" alt="VSCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> VSCode &nbsp;
+    <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> Git &nbsp;
+    <img align="center" alt="GitHub" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> GitHub
+  </p>
 </div>
 
 ---
@@ -20,55 +38,6 @@
 
 ---
 
-### 🛠️ **Tecnologias que uso**
-
 <div align="center">
-  <p>
-    <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> HTML &nbsp;
-    <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> CSS &nbsp;
-    <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> JavaScript &nbsp;
-    <img align="center" alt="PHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> PHP &nbsp;
-    <img align="center" alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> MySQL &nbsp;
-    <img align="center" alt="Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"> Figma &nbsp;
-    <img align="center" alt="VSCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> VSCode &nbsp;
-    <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> Git &nbsp;
-    <img align="center" alt="GitHub" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> GitHub
-  </p>
-</div>
-
----
-
-### 📌 **Repositórios em destaque**
-
-<div align="center">
-  <p>Em breve atualizações com meus projetos de barbearia, pizzaria e mais!</p>
-  <p>Fique de olho no meu perfil para novidades! 👀</p>
-</div>
-
----
-
-### 📍 **Sobre mim**
-
-<div align="center">
-  <p>🧑‍💻 Estudante de TI, curioso e apaixonado por desenvolvimento web.</p>
-  <p>🎯 Buscando sempre melhorar minhas habilidades e criar coisas úteis e bonitas.</p>
-  <p>💡 Aberto a feedbacks, colaborações e novas ideias!</p>
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorHcss&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHcss&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff" height="160"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorHcss&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12,20,14,17,20,26&section=footer"/>
-  <p>Feito com 💻 por Victor H. | Obrigado pela visita! ⭐</p>
+  <p>Obrigado pela visita! ⭐</p>
 </div>
