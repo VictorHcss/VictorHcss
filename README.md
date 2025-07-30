@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá, eu sou o Victor Henrique! 👋</h1>
+  <h1>Olá, eu sou o **Victor Henrique**! 👋</h1>
   <p>Sou um desenvolvedor iniciante focado em aprender e criar projetos legais com HTML, CSS, JavaScript e outras tecnologias.</p>
   <p>Sempre busco evoluir e transformar ideias em soluções criativas.</p>
 </div>
@@ -11,10 +11,10 @@
 <div align="center">
   <p>Ficarei feliz em conectar e trocar ideias!</p>
   <br>
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-henrique-155842377)
-  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henvictor2@gmail.com)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/553399926633)
-  [![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://app.curtaaulacurta.com.br/166/victor/index.html)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-henrique-155842377)<br>
+  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henvictor2@gmail.com)<br>
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/553399926633)<br>
+  [![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://app.curtaaulacurta.com.br/166/victor/index.html)<br>
   [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/1i2hM139lmyTdukYTJKHsJ)
 </div>
 
@@ -30,6 +30,9 @@
     <img align="center" alt="PHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> PHP &nbsp;
     <img align="center" alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> MySQL &nbsp;
     <img align="center" alt="Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"> Figma &nbsp;
+    <img align="center" alt="VSCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> VSCode &nbsp;
+    <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> Git &nbsp;
+    <img align="center" alt="GitHub" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> GitHub
   </p>
 </div>
 
@@ -67,5 +70,5 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12,20,14,17,20,26&section=footer"/>
-  <p>Obrigado pela visita! ⭐</p>
+  <p>Feito com 💻 por Victor H. | Obrigado pela visita! ⭐</p>
 </div>
