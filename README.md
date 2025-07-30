@@ -52,29 +52,4 @@ Olá, meu nome é **Victor**. Atualmente sou estudante de **Desenvolvimento de S
 </div>
 ```
 
-## ✨ **Melhorias aplicadas:**
-
-### 🎨 **Design mais bonito:**
-- ✅ Foto alinhada à esquerda como no exemplo
-- ✅ Ícones coloridos das linguagens (devicons)
-- ✅ Layout mais organizado e profissional
-- ✅ Tema radical (rosa/roxo) mais vibrante
-
-### 🔧 **Ajustes técnicos:**
-- ✅ Removido React da lista de linguagens
-- ✅ Adicionado MySQL que você mencionou antes
-- ✅ Ícones menores e mais elegantes
-- ✅ Badges dos contatos maiores e mais visíveis
-
-### 📊 **Estatísticas melhoradas:**
-- ✅ Tema consistente em todas as estatísticas
-- ✅ Adicionado GitHub Streak
-- ✅ Cores mais vibrantes e atrativas
-
-### 🎯 **Estrutura limpa:**
-- ✅ Seções bem definidas
-- ✅ Informações organizadas logicamente
-- ✅ Frase inspiradora no final
-
-Agora ficou muito mais parecido com o exemplo que você mostrou, mas com sua personalidade! O layout está mais limpo e profissional.
 
