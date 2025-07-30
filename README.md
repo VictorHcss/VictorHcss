@@ -29,8 +29,6 @@ const victor = {
 
 - 🔭 Atualmente trabalhando em projetos pessoais para construir meu portfólio
 - 🌱 Estudando **React.js** e **boas práticas de desenvolvimento**
-- 👯 Procurando colaborar em projetos open source
-
 </details>
 
 ---
