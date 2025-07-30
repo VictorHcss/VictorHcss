@@ -58,5 +58,5 @@
 ---
 
 <div align="center">
-  <p><em>“Obrigado pela visita! ⭐ Vamos codar o futuro!”</em></p>
+  <p><em>Obrigado pela visita! ⭐</em></p>
 </div>
