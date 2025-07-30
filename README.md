@@ -1,6 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Victor+Henrique+%F0%9F%91%8B;Front-end+Developer+%26+Web+Designer;Estudante+de+Desenvolvimento+de+Sistemas" alt="Typing SVG" />
+  # Olá, meu nome é **Victor Henrique** 👋
+  <p>Estudante de Desenvolvimento de Sistemas</p>
+  
+  <img src="https://komarev.com/ghpvc/?username=VictorHcss&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
 </div>
+
 ---
 
 <div align="center">
@@ -45,6 +49,8 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henvictor2@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/553399926633)
 [![Portfolio](https://img.shields.io/badge/Portfólio-FF5722?style=for-the-badge&logo=About.me&logoColor=white)](https://app.curtaaulacurta.com.br/166/victor/index.html)
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/1i2hM139lmyTdukYTJKHsJ)
+
 </div>
 
 ---
