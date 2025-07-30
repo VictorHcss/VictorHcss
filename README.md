@@ -102,20 +102,6 @@ const victor = {
 ---
 
 <div align="center">
-  <h3>💭 Pensamento do Dia</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
----
-
-<div align="center">
-  <h3>🎵 Spotify Playing</h3>
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=1i2hM139lmyTdukYTJKHsJ&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Playing"/>
-</div>
-
----
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer"/>
   
   <p><em>"O código é poesia em movimento, e cada linha conta uma história."</em></p>
