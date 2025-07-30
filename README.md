@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <p>Apaixonado por **Front-end**, **Web Design** e **novas tecnologias**.</p>
+  <p>Front-end, Web Designer (em Desenvolvimento).</p>
   <p>Buscando sempre melhorar como desenvolvedor e designer, transformando ideias em experiências digitais incríveis.</p>
 </div>
 
