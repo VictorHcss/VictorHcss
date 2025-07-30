@@ -28,6 +28,7 @@ Buscando sempre melhorar como desenvolvedor e designer.
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:henvictor2@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=flat-square&logo=About.me&logoColor=white)](https://app.curtaaulacurta.com.br/166/victor/index.html)
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/1i2hM139lmyTdukYTJKHsJ)
 
 ---
 
@@ -35,3 +36,5 @@ Buscando sempre melhorar como desenvolvedor e designer.
   <img src="https://github-readme-stats.vercel.app/api?username=VictorHcss&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHcss&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="150"/>
 </div>
+```
+
