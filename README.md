@@ -9,10 +9,10 @@
 ### 📍 **Sobre Mim**
 
 <div align="center">
-  <p>🧑‍💻 Estudante de Desenvolvimento de Sistemas com foco em criar <strong>interfaces modernas, responsivas e funcionais.</strong></p>
-  <p>✨ Interessado por transformar ideias em <strong>experiências digitais incríveis</strong> usando código limpo e design bem pensado.</p>
-  <p>🚀 Sempre em busca de novos conhecimentos e desafios para aprimorar minhas habilidades em <strong>Front-end</strong> e <strong>Web Design</strong>.</p>
-  <p>💡 Aberto a feedbacks, colaborações e novas ideias!</p>
+  <p>Estudante de Desenvolvimento de Sistemas com foco em criar <strong>interfaces modernas, responsivas e funcionais.</strong></p>
+  <p>Interessado por transformar ideias em <strong>experiências digitais incríveis</strong> usando código limpo e design bem pensado.</p>
+  <p>Sempre em busca de novos conhecimentos e desafios para aprimorar minhas habilidades em <strong>Front-end</strong> e <strong>Web Design</strong>.</p>
+  <p>Aberto a feedbacks, colaborações e novas ideias!</p>
 </div>
 
 ---
