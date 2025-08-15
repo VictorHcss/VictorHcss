@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá, eu sou o Victor Henrique! 👋</h1>
+  <h1>Olá, eu sou o Victor Henrique!</h1>
   <p>Sou um desenvolvedor iniciante focado em aprender e criar projetos inovadores.</p>
   <p>Busco sempre evoluir e transformar ideias em soluções criativas, com paixão por Front-end e Web Design.</p>
 </div>
