@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá, eu sou o Victor Henrique!</h1>
-  <p>Sou um desenvolvedor iniciante focado em aprender e criar projetos inovadores.</p>
+  <p>Sou um desenvolvedor focado em aprender continuamente e criar projetos inovadores.</p>
   <p>Busco sempre evoluir e transformar ideias em soluções criativas, com paixão por Front-end e Web Design.</p>
 </div>
 
@@ -9,9 +9,9 @@
 ### 📍 **Sobre Mim**
 
 <div align="center">
-  <p>Estudante de Desenvolvimento de Sistemas com foco em criar <strong>interfaces modernas, responsivas e funcionais.</strong></p>
-  <p>Interessado por transformar ideias em <strong>experiências digitais incríveis</strong> usando código limpo e design bem pensado.</p>
-  <p>Sempre em busca de novos conhecimentos e desafios para aprimorar minhas habilidades em <strong>Front-end</strong> e <strong>Web Design</strong>.</p>
+  <p>Formado em Desenvolvimento de Sistemas, com foco na criação de <strong>interfaces modernas, responsivas e funcionais.</strong></p>
+  <p>Tenho interesse em transformar ideias em <strong>experiências digitais marcantes</strong>, utilizando código limpo e design bem estruturado.</p>
+  <p>Estou em constante aprimoramento das minhas habilidades em <strong>Front-end</strong> e <strong>Web Design</strong>, buscando sempre boas práticas e soluções eficientes.</p>
   <p>Aberto a feedbacks, colaborações e novas ideias!</p>
 </div>
 
