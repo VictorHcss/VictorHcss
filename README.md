@@ -2,12 +2,6 @@
   <h1>Olá, eu sou o Victor Henrique!</h1>
   <p>Desenvolvedor focado em criar soluções bem feitas, organizadas e funcionais.</p>
   <p>Atuo com Front-end e Web Design, unindo código limpo com interfaces modernas e bem estruturadas.</p>
-
-  <br>
-
-  <a href="https://vhdev.up.railway.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=code&logoColor=white"/>
-  </a>
 </div>
 
 ---
