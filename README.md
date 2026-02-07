@@ -2,6 +2,12 @@
   <h1>Olá, eu sou o Victor Henrique!</h1>
   <p>Desenvolvedor focado em criar soluções eficientes, funcionais e bem estruturadas.</p>
   <p>Tenho paixão por Front-end e Web Design, unindo código limpo com interfaces modernas.</p>
+
+  <br>
+
+  <a href="https://vhdev.up.railway.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfólio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
 </div>
 
 ---
@@ -44,6 +50,10 @@
 ### 📫 **Contato**
 
 <div align="center">
+  <a href="https://vhdev.up.railway.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/victor-henrique-155842377" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
