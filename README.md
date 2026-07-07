@@ -1,67 +1,68 @@
 <div align="center">
-  <h1>Olá, eu sou o Victor Henrique! 👋</h1>
-  <p>Desenvolvedor apaixonado por construir experiências digitais eficientes, escaláveis e intuitivas.</p>
-  
-  <p>
-    <a href="https://www.linkedin.com/in/victor-henrique-155842377" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="https://vhdev.up.railway.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=code&logoColor=white"/>
-    </a>
-  </p>
+  <h1>Olá, eu sou o Victor Henrique!</h1>
+  <p>Desenvolvedor focado em criar soluções bem feitas, organizadas e funcionais.</p>
+  <p>Atuo com Front-end e Web Design, unindo código limpo com interfaces modernas e bem estruturadas.</p>
 </div>
 
 ---
 
 ### 📍 **Sobre Mim**
-Sou um desenvolvedor em constante evolução, com formação técnica pelo **Senac** em Desenvolvimento de Sistemas e em transição para o ensino superior. Meu foco está em transformar requisitos complexos em código limpo, organizado e funcional.
 
-*   💻 **Foco:** Desenvolvimento Front-end e Web Design.
-*   🛠 **Diferencial:** Busco constantemente aprimorar minhas habilidades, aplicando tecnologias modernas para entregar projetos com alta qualidade técnica.
+<div align="center">
+  <p>Sou formado em Desenvolvimento de Sistemas e trabalho com a criação de <strong>interfaces modernas, responsivas e funcionais</strong>.</p>
+  <p>Gosto de desenvolver soluções digitais bem organizadas, com foco em clareza, usabilidade e boas práticas.</p>
+  <p>Tenho atuação voltada para <strong>Front-end</strong> e <strong>Web Design</strong>, sempre buscando qualidade no código e na experiência do usuário.</p>
+  <p>Valorizo trabalho em equipe, feedbacks construtivos e desafios que contribuam para evolução profissional.</p>
+</div>
 
 ---
 
-### 🧠 **Tech Stack**
+### 🧠 **Tecnologias e Ferramentas**
 
-Aqui estão as tecnologias que compõem o meu dia a dia:
-
-**Web & Front-end:**
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-</p>
-
-**Back-end & Banco de Dados:**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-</p>
-
-**Ferramentas:**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
-</p>
+<div align="center">
+  <img alt="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+  &nbsp;&nbsp;
+  <img alt="CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+  &nbsp;&nbsp;
+  <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
+  &nbsp;&nbsp;
+  <img alt="PHP" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>
+  &nbsp;&nbsp;
+  <img alt="MySQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
+  &nbsp;&nbsp;
+  <img alt="Figma" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+  &nbsp;&nbsp;
+  <img alt="VSCode" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+  &nbsp;&nbsp;
+  <img alt="Git" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
+  &nbsp;&nbsp;
+  <img alt="GitHub" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>
+</div>
 
 ---
 
 ### 📫 **Contato**
-Estou sempre aberto a conversar sobre tecnologia e oportunidades. Vamos nos conectar!
 
-*   📧 **E-mail:** [henvictor2@gmail.com](mailto:henvictor2@gmail.com)
-*   💬 **WhatsApp:** [Clique aqui para falar comigo](https://wa.me/553399926633)
+<div align="center">
+  <a href="https://vhdev.up.railway.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=code&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/victor-henrique-155842377" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:henvictor2@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://wa.me/553399926633" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+</div>
 
 ---
 
 <div align="center">
-  <p><em>"Construindo o futuro, um código de cada vez."</em></p>
+  <p><em>Obrigado pela visita! ⭐</em></p>
 </div>
