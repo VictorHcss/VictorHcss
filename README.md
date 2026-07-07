@@ -13,7 +13,7 @@ Transformo ideias em aplicações web modernas, responsivas e funcionais, priori
 ## 🚀 Sobre mim
 
 * 🎓 Técnico em **Desenvolvimento de Sistemas** pelo **Senac**.
-* 💻 Estudando continuamente **React**, **Next.js**, **TypeScript** e desenvolvimento **Full Stack** por meio de projetos práticos.
+* 💻 Estou sempre estudando novas tecnologias e aprimorando minhas habilidades por meio de projetos práticos.
 * 🎨 Gosto de desenvolver interfaces modernas, intuitivas e responsivas.
 * 📚 Tenho como próximo passo iniciar a graduação em **Análise e Desenvolvimento de Sistemas (ADS)**.
 * 🤝 Acredito que boas aplicações nascem da combinação entre código limpo, boas práticas e atenção aos detalhes.
