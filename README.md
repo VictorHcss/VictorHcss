@@ -18,7 +18,6 @@
 Sou um desenvolvedor em constante evolução, com formação técnica pelo **Senac** em Desenvolvimento de Sistemas e em transição para o ensino superior. Meu foco está em transformar requisitos complexos em código limpo, organizado e funcional.
 
 *   💻 **Foco:** Desenvolvimento Front-end e Web Design.
-*   🚀 **Mindset:** Aprendizado contínuo, boas práticas de Clean Code e foco na experiência do usuário.
 *   🛠 **Diferencial:** Busco constantemente aprimorar minhas habilidades, aplicando tecnologias modernas para entregar projetos com alta qualidade técnica.
 
 ---
