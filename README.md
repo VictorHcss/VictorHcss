@@ -82,6 +82,6 @@ Transformo ideias em aplicações web modernas, responsivas e funcionais, priori
 
 ### ⭐ Sempre aprendendo, sempre construindo.
 
-Obrigado pela visita! Fique à vontade para conhecer meu portfólio e acompanhar minha evolução como desenvolvedor.
+Obrigado pela visita!
 
 </div>
