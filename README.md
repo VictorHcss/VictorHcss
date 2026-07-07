@@ -1,47 +1,73 @@
 <div align="center">
-  <h1>Olá, eu sou o Victor Henrique!</h1>
-  <p>Desenvolvedor focado em criar soluções bem feitas, organizadas e funcionais.</p>
-  <p>Atuo com Front-end e Web Design, unindo código limpo com interfaces modernas e bem estruturadas.</p>
+  <h1>Olá, eu sou o Victor Henrique! 👋</h1>
+  <p>Desenvolvedor em formação, focado em criar soluções bem feitas, organizadas e funcionais.</p>
+  <p>Atuo com Front-end e Web Design, unindo código limpo com interfaces modernas e bem estruturadas — e em constante expansão para o Back-end.</p>
 </div>
 
 ---
 
-### 📍 **Sobre Mim**
+### 📍 Sobre Mim
 
 <div align="center">
-  <p>Sou formado em Desenvolvimento de Sistemas e trabalho com a criação de <strong>interfaces modernas, responsivas e funcionais</strong>.</p>
+  <p>Formado em <strong>Desenvolvimento de Sistemas</strong> pelo Senac, atualmente cursando <strong>Análise e Desenvolvimento de Sistemas</strong> na faculdade.</p>
+  <p>Estou em constante aprendizado, buscando evoluir a cada projeto e ampliar minha atuação do Front-end para o Full-stack.</p>
   <p>Gosto de desenvolver soluções digitais bem organizadas, com foco em clareza, usabilidade e boas práticas.</p>
-  <p>Tenho atuação voltada para <strong>Front-end</strong> e <strong>Web Design</strong>, sempre buscando qualidade no código e na experiência do usuário.</p>
-  <p>Valorizo trabalho em equipe, feedbacks construtivos e desafios que contribuam para evolução profissional.</p>
+  <p>Valorizo trabalho em equipe, feedbacks construtivos e desafios que contribuam para minha evolução profissional.</p>
 </div>
 
 ---
 
-### 🧠 **Tecnologias e Ferramentas**
+### 🧠 Tecnologias e Ferramentas
+
+**Front-end**
 
 <div align="center">
-  <img alt="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  &nbsp;&nbsp;
-  <img alt="CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-  &nbsp;&nbsp;
-  <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
-  &nbsp;&nbsp;
-  <img alt="PHP" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>
-  &nbsp;&nbsp;
-  <img alt="MySQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
-  &nbsp;&nbsp;
-  <img alt="Figma" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-  &nbsp;&nbsp;
-  <img alt="VSCode" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-  &nbsp;&nbsp;
-  <img alt="Git" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
-  &nbsp;&nbsp;
+  <img alt="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>&nbsp;&nbsp;
+  <img alt="CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>&nbsp;&nbsp;
+  <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>&nbsp;&nbsp;
+  <img alt="TypeScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>&nbsp;&nbsp;
+  <img alt="Next.js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"/>
+</div>
+
+**Back-end**
+
+<div align="center">
+  <img alt="Node.js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>&nbsp;&nbsp;
+  <img alt="PHP" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>&nbsp;&nbsp;
+  <img alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+</div>
+
+**Banco de Dados**
+
+<div align="center">
+  <img alt="MySQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>&nbsp;&nbsp;
+  <img alt="PostgreSQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
+</div>
+
+**Ferramentas**
+
+<div align="center">
+  <img alt="Figma" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>&nbsp;&nbsp;
+  <img alt="VSCode" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>&nbsp;&nbsp;
+  <img alt="Git" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>&nbsp;&nbsp;
   <img alt="GitHub" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>
 </div>
 
 ---
 
-### 📫 **Contato**
+### 🚀 Em Formação Constante
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Formado-Senac%20ADS-006F42?style=for-the-badge"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Cursando-Faculdade%20ADS-00A376?style=for-the-badge"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Sempre-Aprendendo-000000?style=for-the-badge"/>
+</div>
+
+---
+
+### 📫 Contato
 
 <div align="center">
   <a href="https://vhdev.up.railway.app/" target="_blank">
