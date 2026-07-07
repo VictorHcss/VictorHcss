@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá, eu sou o Victor Henrique!</h1>
+  <h1>Olá, eu sou o Victor Henrique! 👋</h1>
   <p>Desenvolvedor focado em criar soluções bem feitas, organizadas e funcionais.</p>
   <p>Atuo com Front-end e Web Design, unindo código limpo com interfaces modernas e bem estruturadas.</p>
 </div>
@@ -20,23 +20,36 @@
 ### 🧠 **Tecnologias e Ferramentas**
 
 <div align="center">
-  <img alt="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+  <!-- Principais Tecnologias -->
+  <img alt="TypeScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
   &nbsp;&nbsp;
-  <img alt="CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+  <img alt="Next.js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"/>
+  &nbsp;&nbsp;
+  <img alt="React" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
   &nbsp;&nbsp;
   <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
   &nbsp;&nbsp;
+  <img alt="HTML5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+  &nbsp;&nbsp;
+  <img alt="CSS3" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+  <br><br>
+  <!-- Backend & Banco de Dados -->
+  <img alt="Node.js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
+  &nbsp;&nbsp;
   <img alt="PHP" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>
   &nbsp;&nbsp;
+  <img alt="PostgreSQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
+  &nbsp;&nbsp;
   <img alt="MySQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
+  <br><br>
+  <!-- Ferramentas -->
+  <img alt="Git" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
+  &nbsp;&nbsp;
+  <img alt="GitHub" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>
   &nbsp;&nbsp;
   <img alt="Figma" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
   &nbsp;&nbsp;
   <img alt="VSCode" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-  &nbsp;&nbsp;
-  <img alt="Git" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
-  &nbsp;&nbsp;
-  <img alt="GitHub" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>
 </div>
 
 ---
