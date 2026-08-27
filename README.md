@@ -2,7 +2,7 @@
 
 # Olá, eu sou o Victor Henrique! 👋
 
-**Desenvolvedor Front-end | Técnico em Desenvolvimento de Sistemas pelo Senac**
+**Estudante de ADS | Desenvolvimento Web | Projetos Full Stack**
 
 Transformo ideias em aplicações web modernas, responsivas e funcionais, priorizando código limpo, organização e uma excelente experiência para o usuário.
 
