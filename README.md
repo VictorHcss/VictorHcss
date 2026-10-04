@@ -6,8 +6,6 @@
 
 Transformo ideias em aplicações web modernas, responsivas e funcionais, com foco em código limpo, arquitetura sólida e excelente experiência do usuário (UX/UI).
 
-[Portfólio](https://portfolio-virid-alpha-93.vercel.app) • [LinkedIn](https://www.linkedin.com/in/victor-henrique-155842377) • [E-mail](mailto:henvictor2@gmail.com) • [WhatsApp](https://wa.me/553399926633)
-
 </div>
 
 ---
