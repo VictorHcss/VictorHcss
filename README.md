@@ -2,7 +2,7 @@
 
 # Olá, eu sou o Victor Henrique! 👋
 
-**Desenvolvedor Full Stack / Web | JavaScript • TypeScript • Python**
+**Desenvolvedor Web | JavaScript • TypeScript • Python**
 
 Transformo ideias em aplicações web modernas, responsivas e funcionais, com foco em código limpo, arquitetura sólida e excelente experiência do usuário (UX/UI).
 
@@ -53,12 +53,10 @@ Transformo ideias em aplicações web modernas, responsivas e funcionais, com fo
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=dark"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=VictorHcss&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHcss&layout=compact&theme=dark"/>
 
 </div>
-
-> *Lembre-se de substituir `SEU_USUARIO_GITHUB` nos links acima pelo seu nome de usuário do GitHub.*
 
 ---
 
