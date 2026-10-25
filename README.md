@@ -1,82 +1,68 @@
-<div align="center">
+# Olá, eu sou o Victor Henrique
 
-# Olá, eu sou o Victor Henrique! 👋
+**Desenvolvedor Full Stack Júnior** · TypeScript · React · Next.js · PostgreSQL · Python
 
-**Desenvolvedor Web | JavaScript • TypeScript • Python**
+Estudo Análise e Desenvolvimento de Sistemas e transformo o que aprendo em projetos publicados aqui. Gosto de problemas com regras de negócio de verdade (dinheiro, permissões, dados de várias empresas no mesmo sistema) e de provar que as coisas funcionam com testes automatizados.
 
-Transformo ideias em aplicações web modernas, responsivas e funcionais, com foco em código limpo, arquitetura sólida e excelente experiência do usuário (UX/UI).
-
-</div>
+Estou buscando minha **primeira oportunidade como Desenvolvedor Júnior ou estagiário**, remoto, híbrido ou presencial. Moro em Governador Valadares, MG.
 
 ---
 
-## 🚀 Sobre Mim
+## Projetos em destaque
 
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na **Anhanguera** *(08/2026 – 02/2029)*.
-- 🎓 Técnico em **Desenvolvimento de Sistemas** pelo **Senac**.
-- 💻 Focado em construir aplicações web escaláveis, aplicando boas práticas de desenvolvimento e arquitetura.
-- 🎨 Entusiasta de design de interfaces modernas, intuitivas e totalmente responsivas.
+### [Kombexa](https://github.com/VictorHcss/kombexa)
+Sistema web de gestão para academias de artes marciais (MVP em evolução). Resolve o controle de alunos, mensalidades, pagamentos e presença que muitas academias ainda fazem em planilhas e mensagens.
 
----
+- Alunos, mensalidades, pagamentos parciais, cancelamentos e financeiro
+- Equipe com permissões por perfil, área do aluno e do responsável
+- Isolamento de dados entre academias e log de auditoria
+- PWA instalável e controle de presença
+- **269 testes automatizados** contra PostgreSQL real, mais testes de ponta a ponta com Playwright, rodando em CI
 
-## 🛠️ Tecnologias & Ferramentas
+`Next.js` `React` `TypeScript` `PostgreSQL` `Drizzle ORM` `Zod` `Docker` `Vitest` `Playwright`
 
-<div align="center">
+### [Finance.AI](https://github.com/VictorHcss/finance-ai)
+Aplicação de controle financeiro pessoal. Mostra para onde o dinheiro vai e o que mudou no comportamento de gastos ao longo do tempo.
 
-### Linguagens & Core
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+- Dashboard com saldo, entradas, saídas e tendência mês a mês
+- Transações (com exportação CSV), metas com progresso e notificações
+- Importação de extratos bancários em CSV e OFX
+- Insights gerados do histórico: categoria dominante, despesas recorrentes e projeção para concluir metas
+- API em FastAPI organizada em camadas, com autenticação, isolamento de dados por conta e **89 testes automatizados**
 
-</div>
+`Next.js` `React` `TypeScript` `Tailwind CSS` `React Query` `Recharts` `Python` `FastAPI` `SQLite`
 
----
+### [Foodie](https://github.com/VictorHcss/foodie)
+Aplicação de delivery para praticar interfaces e fluxos interativos. Todos os dados, o login e os pedidos são simulados e ficam salvos no navegador (não há back-end).
 
-## 📊 Estatísticas do GitHub
+- Busca, filtros e ordenação; páginas de restaurantes e produtos
+- Sacola, cupons de desconto com regras de validação, favoritos e avaliações
+- Login, cadastro, perfil e histórico de pedidos com status simulado
+- Interface responsiva com tema claro e escuro
 
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=VictorHcss&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHcss&layout=compact&theme=dark"/>
-
-</div>
+`Next.js` `React` `TypeScript` `Tailwind CSS` `shadcn/ui`
 
 ---
 
-## 📫 Vamos nos conectar?
+## Tecnologias
 
-<div align="center">
+| Área | O que uso |
+|---|---|
+| Linguagens | TypeScript, JavaScript, Python, SQL |
+| Front-end | React, Next.js, HTML, CSS, Tailwind CSS |
+| Back-end e APIs | APIs REST, Next.js, FastAPI |
+| Banco de dados | PostgreSQL, SQLite |
+| Testes | Vitest, Playwright |
+| Ferramentas | Git, GitHub, GitHub Actions (CI), Docker, Vercel |
+| Apoio | ChatGPT, Claude e Gemini, revisando o que produzem |
 
-<a href="https://portfolio-virid-alpha-93.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"/>
-</a>
-<a href="https://www.linkedin.com/in/victor-henrique-155842377" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:henvictor2@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://wa.me/553399926633" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-</a>
+## Formação
 
-</div>
+- **Tecnólogo em Análise e Desenvolvimento de Sistemas**, Faculdade Anhanguera (2026–2029, cursando)
+- **Técnico em Análise e Desenvolvimento de Sistemas**, SENAC (concluído)
+- **Python**, Santander Open Academy (2025)
 
----
 
-<div align="center">
+## Contato
 
-### ⭐ Sempre aprendendo, sempre construindo.
-
-Obrigado pela visita!
-
-</div>
+[Portfólio](https://portfolio-virid-alpha-93.vercel.app) · [LinkedIn](https://www.linkedin.com/in/victor-henrique-155842377/) · [henvictor2@gmail.com](mailto:henvictor2@gmail.com)
