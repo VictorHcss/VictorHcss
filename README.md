@@ -16,8 +16,6 @@
 
 </div>
 
----
-
 ## Sobre mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e pelo processo de transformar ideias em aplicações funcionais.
@@ -30,83 +28,6 @@ Mais do que criar telas bonitas, quero construir sistemas que resolvam problemas
 
 **Meu objetivo:** conquistar minha primeira oportunidade como desenvolvedor júnior ou estagiário, continuar evoluindo com desafios reais e contribuir com uma equipe da qual eu possa aprender e fazer parte.
 
----
-
-## Projetos que estou construindo
-
-Projetos próprios são meu laboratório: é onde estudo tecnologias, testo ideias e enfrento problemas que vão além de fazer a aplicação funcionar na tela.
-
-<div align="center">
-
-<a href="https://github.com/VictorHcss/kombexa">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorHcss&repo=kombexa&theme=github_dark&hide_border=true" alt="Kombexa — gestão para academias de artes marciais" />
-</a>
-<a href="https://github.com/VictorHcss/finance-ai">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorHcss&repo=finance-ai&theme=github_dark&hide_border=true" alt="Finance.AI — controle financeiro pessoal" />
-</a>
-<a href="https://github.com/VictorHcss/foodie">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorHcss&repo=foodie&theme=github_dark&hide_border=true" alt="Foodie — aplicação de delivery" />
-</a>
-
-</div>
-
-### 01. Kombexa — gestão para academias de artes marciais
-
-<a href="https://github.com/VictorHcss/kombexa">
-  <img align="right" width="100" src="https://skillicons.dev/icons?i=nextjs,ts,postgres" alt="Next.js, TypeScript e PostgreSQL" />
-</a>
-
-Uma plataforma de gestão pensada para academias de artes marciais, com foco em organizar alunos, mensalidades, pagamentos e presença em um só lugar.
-
-É um dos projetos em que mais tenho trabalhado questões de regras de negócio, integridade dos dados, permissões e confiabilidade.
-
-- Gestão de alunos, mensalidades, pagamentos parciais e cancelamentos.
-- Controle financeiro, presença e experiência para alunos e responsáveis.
-- Equipe com permissões por perfil, isolamento de dados entre academias e auditoria.
-- PWA instalável e interface para diferentes necessidades de uso.
-- **269 testes automatizados** contra PostgreSQL real, além de testes end-to-end com Playwright e execução em CI.
-
-**Stack:** Next.js · React · TypeScript · PostgreSQL · Drizzle ORM · Docker · Vitest · Playwright
-
-[Ver repositório →](https://github.com/VictorHcss/kombexa)
-
----
-
-### 02. Finance.AI — controle financeiro pessoal
-
-Uma aplicação para acompanhar receitas, despesas, metas e hábitos financeiros, transformando movimentações em informações úteis para o dia a dia.
-
-Nesse projeto, trabalho tanto na interface quanto na API, com atenção à organização do código, ao tratamento dos dados e à separação das responsabilidades.
-
-- Dashboard com saldo, receitas, despesas e evolução mensal.
-- Transações com exportação CSV e importação de extratos CSV e OFX.
-- Metas financeiras com progresso e notificações.
-- Insights baseados no histórico de gastos e projeções de metas.
-- API em FastAPI organizada em camadas, com autenticação e isolamento de dados por conta.
-- **89 testes automatizados** para apoiar a confiabilidade da aplicação.
-
-**Stack:** Next.js · React · TypeScript · Tailwind CSS · Python · FastAPI · SQLite
-
-[Ver repositório →](https://github.com/VictorHcss/finance-ai)
-
----
-
-### 03. Foodie — experiência de delivery
-
-Uma aplicação de delivery desenvolvida para explorar interfaces modernas, navegação, gerenciamento de estado e fluxos comuns de um produto digital.
-
-O projeto utiliza dados de demonstração armazenados no navegador, sem back-end próprio para autenticação ou processamento de pedidos.
-
-- Busca, filtros e ordenação de restaurantes e produtos.
-- Sacola de compras e cupons com regras de validação.
-- Favoritos, avaliações, perfil e histórico de pedidos simulados.
-- Interface responsiva com temas claro e escuro.
-
-**Stack:** Next.js · React · TypeScript · Tailwind CSS · shadcn/ui
-
-[Ver repositório →](https://github.com/VictorHcss/foodie)
-
----
 
 ## Tecnologias e ferramentas
 
