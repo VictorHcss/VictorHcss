@@ -81,8 +81,6 @@ As tecnologias abaixo representam ferramentas com as quais venho trabalhando nos
 
 ## Vamos conversar?
 
-Estou aberto a oportunidades de estágio e desenvolvimento júnior, além de conversas sobre tecnologia, projetos e desenvolvimento de software.
-
 <div align="center">
 
 <a href="https://www.linkedin.com/in/victor-henrique-155842377/">
