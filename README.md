@@ -3,9 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/VictorHcss">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=TypeScript+%7C+React+%7C+Next.js;Python+%7C+FastAPI+%7C+PostgreSQL;Testes+automatizados+%7C+CI%2FCD;Construindo%2C+testando+e+evoluindo." alt="Tecnologias e filosofia de desenvolvimento" />
-</a>
-
+  
 <br/>
 
 <a href="https://www.linkedin.com/in/victor-henrique-155842377/">
