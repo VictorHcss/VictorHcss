@@ -1,10 +1,8 @@
-# Victor Henrique | Desenvolvedor Full Stack
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:071A33,50:0B4F9E,100:111827&height=200&section=header&text=Victor%20Henrique&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Desenvolvimento%20Full%20Stack%20%7C%20Construindo%20solu%C3%A7%C3%B5es%20reais&descSize=15&descAlignY=59&animation=fadeIn" alt="Victor Henrique — Desenvolvedor Full Stack" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=TypeScript+%7C+React+%7C+Next.js;Python+%7C+FastAPI+%7C+PostgreSQL;Arquitetura+%7C+Testes+%7C+CI%2FCD;Transformando+ideias+em+software.)](https://github.com/VictorHcss)
+
 
 <br/>
 
@@ -25,47 +23,43 @@
 
 </div>
 
----
+Sobre mim
 
-## Sobre mim
-
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, interessado em tecnologia e no processo de transformar ideias e problemas reais em aplicações funcionais.
+Sou estudante de Análise e Desenvolvimento de Sistemas, interessado em tecnologia e no processo de transformar ideias e problemas reais em aplicações funcionais.
 
 Minha evolução acontece principalmente na prática: desenvolvo projetos, estudo novas tecnologias, resolvo problemas, refatoro código e busco compreender cada etapa do desenvolvimento de software.
 
-Tenho direcionado meus estudos ao **desenvolvimento Full Stack**, trabalhando com TypeScript, React, Next.js, Python, FastAPI e bancos de dados relacionais.
+Tenho direcionado meus estudos ao desenvolvimento Full Stack, trabalhando com TypeScript, React, Next.js, Python, FastAPI e bancos de dados relacionais.
 
 Também venho aprofundando meus conhecimentos em arquitetura de aplicações, autenticação, segurança de dados, testes automatizados e integração contínua.
 
 Acredito que desenvolver software vai muito além de escrever código: envolve compreender necessidades, tomar boas decisões técnicas e construir soluções que sejam úteis, confiáveis e sustentáveis.
 
-**Objetivo profissional:** conquistar minha primeira oportunidade como desenvolvedor júnior ou estagiário, contribuir com projetos reais e continuar evoluindo junto a uma equipe de desenvolvimento.
+Objetivo profissional: conquistar minha primeira oportunidade como desenvolvedor júnior ou estagiário, contribuir com projetos reais e continuar evoluindo junto a uma equipe de desenvolvimento.
 
----
-
-## Tecnologias e ferramentas
+Tecnologias e ferramentas
 
 Tecnologias com as quais venho trabalhando e desenvolvendo projetos práticos.
 
 <div align="center">
 
-### Linguagens
+Linguagens
 
 <img src="https://skillicons.dev/icons?i=ts,js,py,html,css" alt="TypeScript, JavaScript, Python, HTML e CSS" />
 
-### Front-end
+Front-end
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="React, Next.js e Tailwind CSS" />
 
-### Back-end e banco de dados
+Back-end e banco de dados
 
 <img src="https://skillicons.dev/icons?i=fastapi,postgres,sqlite" alt="FastAPI, PostgreSQL e SQLite" />
 
-### Ferramentas e infraestrutura
+Ferramentas e infraestrutura
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,vercel" alt="Git, GitHub, Docker, GitHub Actions e Vercel" />
 
-### Testes e desenvolvimento
+Testes e desenvolvimento
 
 <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest" />
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
@@ -74,62 +68,7 @@ Tecnologias com as quais venho trabalhando e desenvolvendo projetos práticos.
 
 </div>
 
----
-
-## Projetos em destaque
-
-Alguns projetos que representam minha evolução prática e minha forma de aprender desenvolvimento de software.
-
-### Kombexa
-
-**Plataforma de gestão para academias de artes marciais e esportes de combate.**
-
-Sistema desenvolvido para centralizar a administração de academias, incluindo alunos, mensalidades, controle financeiro, presença e área do aluno.
-
-- Gestão de alunos e mensalidades.
-- Controle de acesso e permissões por perfil.
-- Isolamento de dados entre academias.
-- Área do aluno e funcionalidades administrativas.
-- Desenvolvimento com foco em organização e segurança.
-
-**Tecnologias:** Next.js, React, TypeScript e banco de dados relacional.
-
-[![Projeto](https://img.shields.io/badge/Projeto-Kombexa-1F6FEB?style=for-the-badge&logo=github)](https://github.com/VictorHcss)
-
-### Foodie
-
-**Aplicação de delivery e descoberta de restaurantes e pratos.**
-
-Projeto desenvolvido para explorar a construção de uma aplicação de delivery, com experiência de navegação, restaurantes, produtos e funcionalidades de usuário.
-
-- Catálogo de restaurantes e pratos.
-- Carrinho e gerenciamento de pedidos.
-- Favoritos e avaliações.
-- Interface responsiva.
-- Organização de componentes e funcionalidades.
-
-**Tecnologias:** Next.js, React, TypeScript e Tailwind CSS.
-
-[![Projeto](https://img.shields.io/badge/Projeto-Foodie-1F6FEB?style=for-the-badge&logo=github)](https://github.com/VictorHcss/foodie)
-
-### Monitor de preços
-
-**Sistema de monitoramento de preços de produtos.**
-
-Projeto voltado à automação da coleta e acompanhamento de preços, com armazenamento de histórico e planejamento de notificações.
-
-- Monitoramento de produtos.
-- Armazenamento e consulta de preços.
-- Execução automatizada em ambiente cloud.
-- Planejamento de notificações e relatórios.
-
-**Tecnologias:** Python, APIs, Supabase e GitHub Actions.
-
-[![GitHub](https://img.shields.io/badge/GitHub-Meus_reposit%C3%B3rios-181717?style=for-the-badge&logo=github)](https://github.com/VictorHcss?tab=repositories)
-
----
-
-## GitHub em números
+GitHub em números
 
 <div align="center">
 
@@ -145,13 +84,11 @@ Projeto voltado à automação da coleta e acompanhamento de preços, com armaze
 
 </div>
 
----
+Vamos conversar?
 
-## Vamos conversar?
+Estou aberto a oportunidades de estágio e desenvolvimento júnior, além de conversas sobre tecnologia, projetos e desenvolvimento de software.
 
-Estou aberto a oportunidades de **estágio e desenvolvimento júnior**, além de conversas sobre tecnologia, projetos e desenvolvimento de software.
-
-Se você gostou de algum projeto ou gostaria de trocar experiências, fique à vontade para entrar em contato!
+Se você gostou do meu perfil ou gostaria de trocar experiências, fique à vontade para entrar em contato!
 
 <div align="center">
 
@@ -167,7 +104,7 @@ Se você gostou de algum projeto ou gostaria de trocar experiências, fique à v
 
 <br/><br/>
 
-*Um projeto de cada vez. Um problema de cada vez. Sempre evoluindo.*
+Um projeto de cada vez. Um problema de cada vez. Sempre evoluindo.
 
 </div>
 
