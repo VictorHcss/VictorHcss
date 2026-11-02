@@ -68,17 +68,6 @@ As tecnologias abaixo representam ferramentas com as quais venho trabalhando nos
 
 ---
 
-## GitHub em números
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=VictorHcss&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Estatísticas públicas do GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHcss&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Linguagens mais utilizadas nos repositórios públicos" />
-
-</div>
-
----
-
 ## Vamos conversar?
 
 <div align="center">
