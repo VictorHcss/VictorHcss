@@ -66,7 +66,6 @@ As tecnologias abaixo representam ferramentas com as quais venho trabalhando nos
 
 </div>
 
----
 
 ## Vamos conversar?
 
