@@ -27,15 +27,13 @@ Meu foco é o desenvolvimento **full stack** com **TypeScript, React, Next.js, P
 
 - 🎯 **Objetivo:** minha primeira oportunidade como **desenvolvedor júnior ou estagiário**
 - 🎓 **Formação:** Técnico em ADS (SENAC) · cursando Tecnólogo em ADS (Anhanguera)
-- 🔭 **Projeto principal:** [Kombexa](https://github.com/VictorHcss/kombexa), plataforma de gestão para academias de luta
-- 🌎 **Idiomas:** português (nativo) · inglês (intermediário)
 
 ## 🚀 Projetos em destaque
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/VictorHcss/kombexa">🥋 Kombexa</a></h3>
+      <h3><a href="https://github.com/VictorHcss/kombexa">Kombexa</a></h3>
       <p>Plataforma de gestão para academias de artes marciais: alunos, mensalidades, pagamentos, presença por QR Code, graduações, documentos e uma Área do Aluno. Multi-tenant, com permissões por área, auditoria e LGPD.</p>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
@@ -44,7 +42,7 @@ Meu foco é o desenvolvimento **full stack** com **TypeScript, React, Next.js, P
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/VictorHcss/aureon">📈 Aureon</a></h3>
+      <h3><a href="https://github.com/VictorHcss/aureon">Aureon</a></h3>
       <p>Monitor pessoal de preços: coleta diária na nuvem via GitHub Actions, histórico e gráficos por produto, regras de alerta e avisos por Telegram, e-mail ou WhatsApp. Painel responsivo com tema claro e escuro.</p>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
@@ -54,7 +52,7 @@ Meu foco é o desenvolvimento **full stack** com **TypeScript, React, Next.js, P
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/VictorHcss/finance-ai">💰 Finance.AI</a></h3>
+      <h3><a href="https://github.com/VictorHcss/finance-ai">Finance.AI</a></h3>
       <p>Controle financeiro pessoal com dashboard, metas, transações e insights gerados a partir do histórico de cada conta. Front-end em Next.js, API em FastAPI e modo offline quando o backend está indisponível.</p>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
@@ -62,7 +60,7 @@ Meu foco é o desenvolvimento **full stack** com **TypeScript, React, Next.js, P
       <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/VictorHcss/foodie">🍔 Foodie</a></h3>
+      <h3><a href="https://github.com/VictorHcss/foodie">Foodie</a></h3>
       <p>App de delivery inspirado no iFood: exploração de restaurantes, busca e filtros, sacola, cupons de desconto, pedidos, favoritos e avaliações, com interface responsiva e tema claro/escuro.</p>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
