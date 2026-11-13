@@ -18,15 +18,15 @@
 
 ## Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e pelo processo de transformar ideias em aplicações funcionais.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor em formação, com grande interesse em tecnologia, engenharia de software e na criação de soluções que resolvam problemas reais.
 
-Aprendo principalmente colocando a mão na massa: desenvolvo projetos, enfrento problemas, refatoro o que precisa melhorar e procuro entender não apenas como implementar uma funcionalidade, mas também como garantir que ela funcione corretamente.
+Acredito que a melhor maneira de aprender desenvolvimento é construindo. Por isso, dedico boa parte dos meus estudos à criação de projetos pessoais, nos quais procuro aplicar conceitos, explorar novas tecnologias, resolver problemas e aprimorar continuamente minhas habilidades.
 
-Tenho me dedicado ao desenvolvimento full stack, com foco em **TypeScript, React, Next.js, Python, FastAPI e bancos de dados relacionais**. Também venho aprofundando meus conhecimentos em testes automatizados, arquitetura de aplicações, autenticação e segurança de dados.
+Tenho direcionado meus estudos ao desenvolvimento Full Stack, trabalhando principalmente com TypeScript, React, Next.js, Python, FastAPI e bancos de dados relacionais. Também venho aprofundando meus conhecimentos em testes automatizados, arquitetura de software, integração de APIs, autenticação e segurança de aplicações.
 
-Mais do que criar telas bonitas, quero construir sistemas que resolvam problemas reais e tenham uma base técnica sólida.
+Durante esse processo, busco desenvolver não apenas a capacidade de implementar funcionalidades, mas também o entendimento sobre as decisões técnicas por trás de cada solução, priorizando código organizado, aplicações confiáveis e boas práticas de desenvolvimento.
 
-**Meu objetivo:** conquistar minha primeira oportunidade como desenvolvedor júnior ou estagiário, continuar evoluindo com desafios reais e contribuir com uma equipe da qual eu possa aprender e fazer parte.
+**Meu objetivo** é conquistar minha primeira oportunidade profissional como desenvolvedor, seja em estágio ou nível júnior, onde eu possa transformar meus conhecimentos em experiência prática, enfrentar novos desafios, aprender com profissionais mais experientes e contribuir para a construção de soluções de qualidade.
 
 
 ## Tecnologias e ferramentas
