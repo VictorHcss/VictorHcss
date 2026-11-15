@@ -29,14 +29,12 @@ Trabalho principalmente com **TypeScript, React, Next.js, Python, FastAPI e Post
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/VictorHcss/kombexa"><img src="assets/projetos/kombexa.webp" alt="Tela do Kombexa" /></a>
       <h3><a href="https://github.com/VictorHcss/kombexa">Kombexa</a></h3>
       <p>Gestão para academias de artes marciais: alunos, mensalidades, pagamentos parciais, presença com QR Code e Área do Aluno. Multi-tenant, com permissões por área, auditoria e testes com Vitest e Playwright.</p>
       <p><code>Next.js</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>Drizzle</code> <code>Docker</code></p>
       <p><a href="https://github.com/VictorHcss/kombexa"><img src="https://img.shields.io/badge/Código-24292F?style=flat-square&logo=github&logoColor=white" alt="Código" /></a> <a href="https://kombexa-website-pi.vercel.app"><img src="https://img.shields.io/badge/Ver_online-0B4F9E?style=flat-square&logo=vercel&logoColor=white" alt="Ver online" /></a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/VictorHcss/aureon"><img src="assets/projetos/aureon.webp" alt="Tela do Aureon" /></a>
       <h3><a href="https://github.com/VictorHcss/aureon">Aureon</a></h3>
       <p>Monitor de preços do Mercado Livre: coleta diária automatizada com GitHub Actions, histórico, regras de alerta por produto e relatório por e-mail. Contas com sessão assinada e proteção contra SSRF.</p>
       <p><code>Next.js</code> <code>TypeScript</code> <code>Supabase</code> <code>GitHub Actions</code> <code>Vitest</code></p>
@@ -45,14 +43,12 @@ Trabalho principalmente com **TypeScript, React, Next.js, Python, FastAPI e Post
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/VictorHcss/finance-ai"><img src="assets/projetos/finance.webp" alt="Tela do Finance.AI" /></a>
       <h3><a href="https://github.com/VictorHcss/finance-ai">Finance.AI</a></h3>
       <p>Finanças pessoais com insights a partir do histórico real: despesas recorrentes, categorias que mais pesam, pressão no fluxo de caixa e projeção de metas. API própria e modo local para demonstração.</p>
       <p><code>Next.js</code> <code>TypeScript</code> <code>Python</code> <code>FastAPI</code> <code>SQLite</code></p>
       <p><a href="https://github.com/VictorHcss/finance-ai"><img src="https://img.shields.io/badge/Código-24292F?style=flat-square&logo=github&logoColor=white" alt="Código" /></a> <a href="https://landing-nu-virid-55.vercel.app"><img src="https://img.shields.io/badge/Ver_online-0B4F9E?style=flat-square&logo=vercel&logoColor=white" alt="Ver online" /></a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/VictorHcss/foodie"><img src="assets/projetos/foodie.webp" alt="Tela do Foodie" /></a>
       <h3><a href="https://github.com/VictorHcss/foodie">Foodie</a></h3>
       <p>App de delivery inspirado no iFood: busca e filtros de restaurantes, sacola, cupons com regras, pedidos com status, favoritos e avaliações, com tema claro e escuro.</p>
       <p><code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>shadcn/ui</code></p>
