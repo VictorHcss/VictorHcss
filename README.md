@@ -18,15 +18,46 @@
 
 ## Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor em formação, com grande interesse em tecnologia, engenharia de software e na criação de soluções que resolvam problemas reais.
+Sou desenvolvedor **Full Stack** em transição de carreira e estudante de **Análise e Desenvolvimento de Sistemas**. Aprendo construindo: meus projetos nascem de problemas reais (como a recepção da academia de boxe onde eu treino) e crescem até virarem sistemas completos, com regras de negócio, testes e deploy.
 
-Acredito que a melhor maneira de aprender desenvolvimento é construindo. Por isso, dedico boa parte dos meus estudos à criação de projetos pessoais, nos quais procuro aplicar conceitos, explorar novas tecnologias, resolver problemas e aprimorar continuamente minhas habilidades.
+Trabalho principalmente com **TypeScript, React, Next.js, Python, FastAPI e PostgreSQL**, e venho me aprofundando em testes automatizados, arquitetura, autenticação e segurança de aplicações.
 
-Tenho direcionado meus estudos ao desenvolvimento Full Stack, trabalhando principalmente com TypeScript, React, Next.js, Python, FastAPI e bancos de dados relacionais. Também venho aprofundando meus conhecimentos em testes automatizados, arquitetura de software, integração de APIs, autenticação e segurança de aplicações.
+**Busco minha primeira oportunidade como desenvolvedor**, em estágio ou nível júnior.
 
-Durante esse processo, busco desenvolver não apenas a capacidade de implementar funcionalidades, mas também o entendimento sobre as decisões técnicas por trás de cada solução, priorizando código organizado, aplicações confiáveis e boas práticas de desenvolvimento.
+## Projetos em destaque
 
-**Meu objetivo** é conquistar minha primeira oportunidade profissional como desenvolvedor, seja em estágio ou nível júnior, onde eu possa transformar meus conhecimentos em experiência prática, enfrentar novos desafios, aprender com profissionais mais experientes e contribuir para a construção de soluções de qualidade.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🥊 <a href="https://github.com/VictorHcss/kombexa">Kombexa</a></h3>
+      <p>Gestão para academias de artes marciais: alunos, mensalidades, pagamentos parciais, presença com QR Code e Área do Aluno. Multi-tenant, com permissões por área, auditoria e testes com Vitest e Playwright.</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>Drizzle</code> <code>Docker</code></p>
+      <p><a href="https://github.com/VictorHcss/kombexa">Código</a> · <a href="https://kombexa-website-pi.vercel.app">Site e tour do produto</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔎 <a href="https://github.com/VictorHcss/aureon">Aureon</a></h3>
+      <p>Monitor de preços do Mercado Livre: coleta diária automatizada com GitHub Actions, histórico, regras de alerta por produto e relatório por e-mail. Contas com sessão assinada e proteção contra SSRF.</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>Supabase</code> <code>GitHub Actions</code> <code>Vitest</code></p>
+      <p><a href="https://github.com/VictorHcss/aureon">Código</a> · <a href="https://aureon-orpin-five.vercel.app">Ver online</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💰 <a href="https://github.com/VictorHcss/finance-ai">Finance.AI</a></h3>
+      <p>Finanças pessoais com insights a partir do histórico real: despesas recorrentes, categorias que mais pesam, pressão no fluxo de caixa e projeção de metas. API própria e modo local para demonstração.</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>Python</code> <code>FastAPI</code> <code>SQLite</code></p>
+      <p><a href="https://github.com/VictorHcss/finance-ai">Código</a> · <a href="https://landing-nu-virid-55.vercel.app">Ver online</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🍔 <a href="https://github.com/VictorHcss/foodie">Foodie</a></h3>
+      <p>App de delivery inspirado no iFood: busca e filtros de restaurantes, sacola, cupons com regras, pedidos com status, favoritos e avaliações, com tema claro e escuro.</p>
+      <p><code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>shadcn/ui</code></p>
+      <p><a href="https://github.com/VictorHcss/foodie">Código</a> · <a href="https://foodie-neon-five.vercel.app">Ver online</a></p>
+    </td>
+  </tr>
+</table>
+
+Outros projetos: [Órbita TP-77](https://github.com/VictorHcss/cassette-player-py) (toca-fitas dos anos 70 no navegador) · [Caderno](https://github.com/VictorHcss/caderno-project) (anotações de estudo) · [BookHub](https://github.com/VictorHcss/bookhub) (gestão de biblioteca em PHP) · [Portfólio](https://github.com/VictorHcss/portfolio)
 
 
 ## Tecnologias e ferramentas
