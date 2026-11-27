@@ -57,8 +57,6 @@ Trabalho principalmente com **TypeScript, React, Next.js, Python, FastAPI e Post
   </tr>
 </table>
 
-**Outros projetos:** [Órbita TP-77](https://github.com/VictorHcss/cassette-player-py) (toca-fitas dos anos 70 no navegador) · [Caderno](https://github.com/VictorHcss/caderno-project) (anotações de estudo) · [BookHub](https://github.com/VictorHcss/bookhub) (gestão de biblioteca em PHP) · [Portfólio](https://github.com/VictorHcss/portfolio)
-
 
 ## Tecnologias e ferramentas
 
